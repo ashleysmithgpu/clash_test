@@ -1,0 +1,6 @@
+[package]
+name = "test_fpuadd"
+version = "0.1.0"
+authors = ["Ashley Smith <ashleysmithgpu@gmail.com>"]
+
+[dependencies]
